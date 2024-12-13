@@ -10,8 +10,8 @@ const BlogCard = ({ img, headlines }) => {
       />
       <h2 className=" text-lg text-center font-semibold">{headlines}</h2>
       <p className=" text-center text-sm">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae,
-        repellendus suscipit. Rerum consequatur magni expedita.
+      Compassionate care, expert doctors, and advanced facilities - your health is our priority.
+      Trusted healthcare with skilled doctors and state-of-the-art technology for every need.
       </p>
     </div>
   );
