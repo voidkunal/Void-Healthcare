@@ -19,12 +19,12 @@ import docImg6 from "../assets/img/doc6.jpg";
 const HomePage = () => {
   // Doctors Slider Data
   const doctorData = [
-    { img: docImg1, name: "Dr. Serena Mitchell", specialties: "Orthopedic Surgeon" },
-    { img: docImg2, name: "Dr. Julian Bennett", specialties: "Cardiologist" },
-    { img: docImg3, name: "Dr. Camila Rodriguez", specialties: "Pediatrician" },
-    { img: docImg4, name: "Dr. Victor Nguyen", specialties: "Neurologist" },
-    { img: docImg5, name: "Dr. Ethan Carter", specialties: "Dermatologist" },
-    { img: docImg6, name: "Dr. Olivia Martinez", specialties: "Ophthalmologist" },
+    { img: Dr1.jpg, name: "Dr. Arvinder Singh Soin", specialties: "Orthopedic Surgeon" },
+    { img: Dr2.jpg, name: "Dr. Subhash Gupta", specialties: "Cardiologist" },
+    { img: Dr3.jpg, name: "Dr Udgeath Dhir", specialties: "Pediatrician" },
+    { img: Dr5.jpg, name: "DR. ARUN SAROHA", specialties: "Neurologist" },
+    { img: Dr4.jpg, name: "Dr. Rakesh Mahajan", specialties: "Dermatologist" },
+    { img: Dr6.jpg, name: "Dr. Pratap Bahadur Singh", specialties: "Ophthalmologist" },
   ];
 
   const slider = useRef(null);
