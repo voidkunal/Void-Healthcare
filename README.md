@@ -1,2 +1,2 @@
 # Void-Healthcare
-College Project about Healthcare base React &amp; Js
+College Project about Healthcare base React & Js
